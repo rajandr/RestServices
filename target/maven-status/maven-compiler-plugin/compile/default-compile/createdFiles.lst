@@ -1,7 +1,0 @@
-com/db/efolder/domain/DocServiceResponse.class
-com/db/efolder/TFEFRestApplication.class
-com/db/efolder/service/EDocService.class
-com/db/efolder/api/rest/EFileController.class
-com/db/efolder/api/rest/UserController.class
-com/db/efolder/api/rest/EDocController.class
-com/db/efolder/api/rest/docs/SwaggerConfig.class
